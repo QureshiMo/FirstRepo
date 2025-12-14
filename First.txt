@@ -1,2 +1,6 @@
 Third Push
+<<<<<<< HEAD
 ttttttt
+=======
+uuuuuuuu
+>>>>>>> SecondBranch
