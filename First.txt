@@ -1,4 +1,5 @@
 Third Push
+<<<<<<< HEAD
 UUUUUUUUUU
 UUUUUUUUUU
 UUUUUUUUUU
@@ -11,3 +12,21 @@ UUUUUUUUUU
 UUUUUUUUUU
 UUUUUUUUUU
 
+=======
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+uuuuuuuu
+>>>>>>> SecondBranch
