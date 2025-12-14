@@ -1,8 +1,4 @@
 Third Push
-66666666
-66666666
-66666666
-66666666
 uuuuuuuu
 uuuuuuuu
 uuuuuuuu
@@ -21,4 +17,7 @@ uuuuuuuu
 uuuuuuuu
 uuuuuuuu
 77777777
-88888888
+22222222
+99999999
+99999999
+99999999
